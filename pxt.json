@@ -1,0 +1,23 @@
+{
+    "name": "Escape Lava Island 2",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.7.21",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ]
+}
